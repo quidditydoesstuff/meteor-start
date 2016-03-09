@@ -7,9 +7,9 @@ if (Meteor.isClient) {
     function ($scope) {
  
       $scope.tasks = [
-        { text: 'This is task 1' },
-        { text: 'This is task 2' },
-        { text: 'This is task 3' }
+        { text: 'M&Ms' },
+        { text: 'Swedish Fish' },
+        { text: 'Chocolate Fountain' }
       ];
  
   }]);
